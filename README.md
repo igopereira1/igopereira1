@@ -1,4 +1,4 @@
-<div align="center"><h2>Olá, sou o Igo Pereira!</h2>👨🏽‍💻</div> 
+<div align="center"><h2>Olá, sou o Igo Pereira! 👨🏽‍💻</h2></div> 
 
 <div align="center"><h3>Estudante Full Stack Developer na Trybe </h3><div align="center">
 
