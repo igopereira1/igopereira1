@@ -1,8 +1,10 @@
 ### Olá, sou o Igo Pereira!
+---------------------------
+<h2>Estudante Full Stack Developer na Trybe </h2>
 
 <!--
 **igopereira1/igopereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----------------------------
+
 teste
 
 Here are some ideas to get you started:
