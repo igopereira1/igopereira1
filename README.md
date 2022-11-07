@@ -1,6 +1,6 @@
-<h2>Olá, sou o Igo Pereira!</h2>
+<div align="center"><h2>Olá, sou o Igo Pereira!</h2></div>
 
-<h3>Estudante Full Stack Developer na Trybe </h3>
+<div align="center"><h3>Estudante Full Stack Developer na Trybe </h3><div align="center">
 
 <!--
 **igopereira1/igopereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
