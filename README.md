@@ -1,4 +1,4 @@
-###Olá, sou o Igo Pereira! Full Stack Developer Student na Trybe 👨🏽‍💻
+### Olá, sou o Igo Pereira! Full Stack Developer Student na Trybe 👨🏽‍💻
 
 <div align="center">
   <a href="https://github.com/igopereira1">
