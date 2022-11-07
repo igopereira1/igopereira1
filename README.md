@@ -1,4 +1,4 @@
-<div align="center"><h2>Olá, sou o Igo Pereira! Full Stack Developer Student na Trybe 👨🏽‍💻</h2></div> 
+###Olá, sou o Igo Pereira! Full Stack Developer Student na Trybe 👨🏽‍💻
 
 <div align="center">
   <a href="https://github.com/igopereira1">
