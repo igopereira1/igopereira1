@@ -1,6 +1,6 @@
 <div align="center"><h2>Olá, sou o Igo Pereira! 👨🏽‍💻</h2></div> 
 
-<div align="center"><h3>Estudante Full Stack Developer na Trybe </h3></div>
+<div align="center"><h4>Estudante Full Stack Developer na Trybe </h4></div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <strong>React/Redux</strong>
