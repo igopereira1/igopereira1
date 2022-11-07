@@ -1,5 +1,5 @@
 <h2>Olá, sou o Igo Pereira!</h2>
-***
+
 <h3>Estudante Full Stack Developer na Trybe </h3>
 
 <!--
