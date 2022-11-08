@@ -4,7 +4,7 @@
   <p align="center"><strong>Estatísticas:</strong></p>
   <a href="https://github.com/igopereira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igopereira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igopereira1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igopereira1&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center"><a= href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igopereira1&theme=nord" alt="Igo-Trophy" /></a></div> 
