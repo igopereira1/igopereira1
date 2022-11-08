@@ -14,7 +14,7 @@
   
   ##
   
-<div align="center">https://github-profile-trophy.vercel.app/?username=igopereira1&theme=nord</div>
+<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=igopereira1&theme=nord)](https://github.com/igopereira1/github-profile-trophy)</div>
 
 ##
  
