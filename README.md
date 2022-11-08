@@ -1,6 +1,5 @@
 ## Olá, sou o Igo Pereira! Full Stack Developer Student na Trybe 👨🏽‍💻
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/igopereira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +16,4 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/igo-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/igopereira1/igopereira1/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
