@@ -1,6 +1,6 @@
 # About Me
 
-Hello! 👋 I'm a passionate Full Stack developer with a specialized focus on backend development. My journey in technology is fueled by a relentless pursuit of innovative and efficient solutions. Throughout my career, I've dedicated my efforts to building robust systems and applications, prioritizing server-side architecture and technologies.
+Hello! 👋 I'm a passionate Full Stack developer with a specialized focus on backend development. My journey in technology is fueled by a relentless pursuit of innovative and efficient solutions!
 
 ## GitHub Stats
 
