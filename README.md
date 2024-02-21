@@ -1,6 +1,8 @@
 # About Me
 
-Hello! 👋 I'm a passionate Full Stack developer with a specialized focus on backend development. My journey in technology is fueled by a relentless pursuit of innovative and efficient solutions!
+👋🏽 Hello! I'm a back-end developer who loves building innovative applications that solve real-world problems. I have experience with Javascript and Python, and I'm always looking for ways to improve my skills and learn new technologies.
+
+🌐 Let's connect: igopereira1@gmail.com.
 
 ## GitHub Stats
 
@@ -32,6 +34,8 @@ Hello! 👋 I'm a passionate Full Stack developer with a specialized focus on ba
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white" />
 </div>
 
 ## Contact Me
