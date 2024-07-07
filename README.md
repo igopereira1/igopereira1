@@ -2,8 +2,6 @@
 
 👋🏽 Hello! I'm a back-end developer who loves building innovative applications that solve real-world problems. I have experience with Javascript and Python, and I'm always looking for ways to improve my skills and learn new technologies.
 
-🌐 Let's connect: igopereira1@gmail.com.
-
 ## GitHub Stats
 
 <div align="center">
