@@ -4,7 +4,6 @@
 
 - 📍 Based in Salvador, Bahia 🇧🇷
 - 💻 I'm a back-end developer with experience in **Node.js**, **NestJS**, **FastAPI** and **Django**
-- 🔧 I work with **JavaScript**, and **Python** to build scalable and efficient applications
 
 ---
 
