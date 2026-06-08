@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## I'm Igo da Silva Pereira 🚀
+## I'm Igo Pereira 🚀
 
 - 📍 Based in Salvador, Bahia 🇧🇷
 - 💻 I'm a back-end developer with experience in **Node.js**, **NestJS**, **FastAPI** and **Django**
@@ -11,10 +11,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=igopereira1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igopereira1&layout=compact&langs_count=7&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igopereira1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igopereira1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -28,16 +26,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igopereira1/igopereira1/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igopereira1/igopereira1/output/github-contribution-grid-snake.svg">
   </picture>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=igopereira1&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
